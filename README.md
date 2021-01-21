@@ -1,0 +1,2 @@
+# CryptocurrencyPriceAlert
+This program extracts the price of a cryptocurrency coin through BeautifulSoup. The price is then sent to an email using the smtp, ssl, and mime library. Two functions are created to send the email and send an alert about every 30 seconds. Inside the email is HTML text that shows the price of the cryptocurrency coin. My goal of this program was to use my previous email project and add a new objective to the program. 
